@@ -32,4 +32,3 @@
 
 ## The community
 
-If you want to share an ideas of talk about the project be sure to leave a message in the [discussion](https://github.com/pascall-de-creator/Visual-JSON/discussions) to get your reply
